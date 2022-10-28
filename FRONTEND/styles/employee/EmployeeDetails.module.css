@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+  }
+  
+  .details div{
+      margin: 10px;
+  }
+  
+  .details strong{
+      margin: 10px;
+      
+  }

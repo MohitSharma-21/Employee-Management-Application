@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+}
+
+.addButton .button {
+  background-color: rgb(26, 139, 226);
+  margin: 10px;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.updateButton {
+  background-color: rgb(26, 139, 226);
+  margin: 1px;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.deleteButton {
+  background-color: red;
+  margin: 1px;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.viewButton {
+  background-color: rgb(26, 139, 226);
+  margin: 1px;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tableData {
+  width: 90vw;
+  text-align: center;
+}
+
+.tableHead {
+  margin: 2px;
+}
