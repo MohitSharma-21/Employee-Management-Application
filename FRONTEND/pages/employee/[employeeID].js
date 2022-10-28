@@ -1,4 +1,3 @@
-import Head from "next/head";
 import axios from "../../utils/axios";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
